@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/francis/Escritorio/Programacion/Algoritmica/P5/ClaseTiempo.hpp
+cassert
+-
+ctime
+-
+cstdio
+-
+cstring
+-
+iostream
+-
+stdint.h
+-
+
+/home/francis/Escritorio/Programacion/Algoritmica/P5/funciones.cpp
+iostream
+-
+cmath
+-
+vector
+-
+ctime
+-
+funciones.hpp
+/home/francis/Escritorio/Programacion/Algoritmica/P5/funciones.hpp
+ClaseTiempo.hpp
+/home/francis/Escritorio/Programacion/Algoritmica/P5/ClaseTiempo.hpp
+
+/home/francis/Escritorio/Programacion/Algoritmica/P5/funciones.hpp
+iostream
+-
+vector
+-
+

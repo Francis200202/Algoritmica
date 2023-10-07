@@ -1,0 +1,3 @@
+/home/francis/Escritorio/Programacion/Algoritmica/P4/JuradoErencia_Completa/CMakeFiles/rebuild_cache.dir
+/home/francis/Escritorio/Programacion/Algoritmica/P4/JuradoErencia_Completa/CMakeFiles/edit_cache.dir
+/home/francis/Escritorio/Programacion/Algoritmica/P4/JuradoErencia_Completa/CMakeFiles/exe.dir

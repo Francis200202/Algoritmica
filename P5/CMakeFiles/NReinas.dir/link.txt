@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/NReinas.dir/main.cpp.o CMakeFiles/NReinas.dir/funciones.cpp.o  -o NReinas 
