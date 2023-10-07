@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/exe.dir/main.cpp.o CMakeFiles/exe.dir/metodos.cpp.o CMakeFiles/exe.dir/serietemporal.cpp.o CMakeFiles/exe.dir/punto.cpp.o CMakeFiles/exe.dir/recta.cpp.o  -o exe 
